@@ -26,7 +26,7 @@ __CMS 17__
 
 This is the ultimate code for the CONTACT MANAGEMENT SYSTEM which is big free comprises of all the necessary functionalities and also a few options likes __note__ and __export contact__ which makes it a bit different.
 
-__cms 6.1__
+__CMS 6.1__
 
 This file is also bug free however in this the update functionality is not upto the mark. In this you can save your contact to __.csv__ file rather than excel.
 
