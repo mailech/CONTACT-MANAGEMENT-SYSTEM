@@ -22,3 +22,12 @@ __PACKAGES TO INSTALL__
 2. pip install pymysql
 3. pip install openpyxl
 
+__CMS 17__
+
+This is the ultimate code for the CONTACT MANAGEMENT SYSTEM which is big free comprises of all the necessary functionalities and also a few options likes __note__ and __export contact__ which makes it a bit different.
+
+__cms 6.1__
+
+This file is also bug free however in this the update functionality is not upto the mark. In this you can save your contact to __.csv__ file rather than excel.
+
+For any questions or inquiries, please reach out to me at aidenaiden.3108@gmail.com
